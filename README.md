@@ -12,6 +12,7 @@ PaperSage helps researchers, PhD scholars and clinician-scientists turn their wo
 - Cover letters, abstracts and figure/table checks
 
 #Who we help
+
 Biomedical, medical and life-science authors preparing papers, theses and grant documents.
 
 #Free resources
